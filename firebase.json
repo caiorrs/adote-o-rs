@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "adote-o-rs-dev",
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-east1"
+    }
+  }
+}
